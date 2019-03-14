@@ -2,7 +2,7 @@
 link: https://public.tableau.com/profile/martin.carriel#!/vizhome/CitiBikesMarch2016-19/CitiBikeMarch2019MonthlyPreview
 ![Citi Bike Logo](Resources/Title.png)
 
-[Tableau Dashboards Analyzing Citi Bike Data from March 2016-2018](https://public.tableau.com/profile/martin.carriel#!/vizhome/CitiBikesMarch2016-19/CitiBikeMarch2019MonthlyPreview)
+![Citi Bike Start and End Station Maps](Resources/Map.png)
 
 ## Description
 The [Citi Bike March 2019 Monthly Preview](https://public.tableau.com/profile/martin.carriel#!/vizhome/CitiBikesMarch2016-19/CitiBikeMarch2019MonthlyPreview) examines the past three years (2016-18) of Citi Bike data for March in order to make predictions about what to expect in the March 2019 Monthly Report. 
@@ -23,5 +23,3 @@ To recreate the CSV of March data from 2016-2018:
 * 201803-citibike-tripdata.csv.zip
 2. Extract the CSV files and place in the Resources folder.
 3. Run Clean March Data.ipynb with Jupyter Lab/Notebook.
-
-![Citi Bike Start and End Station Maps](Resources/Map.png)
