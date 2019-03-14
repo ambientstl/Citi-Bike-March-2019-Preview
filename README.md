@@ -17,9 +17,9 @@ For more explanation, I turned to [historical weather data for New York City](ht
 
 ## ETL Instructions
 To recreate the CSV of March data from 2016-2018:
-1. Visit the repository of [downloadable Citi Bike trip data](https://s3.amazonaws.com/tripdata/index.html) and download these three files: 
-* 201603-citibike-tripdata.zip
-* 201703-citibike-tripdata.csv.zip
-* 201803-citibike-tripdata.csv.zip
+1. Visit the [repository](https://s3.amazonaws.com/tripdata/index.html) of downloadable [Citi Bike System Data](https://www.citibikenyc.com/system-data) and download these three files: 
+* [201603-citibike-tripdata.zip](https://s3.amazonaws.com/tripdata/201603-citibike-tripdata.zip)
+* [201703-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201703-citibike-tripdata.csv.zip)
+* [201803-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201803-citibike-tripdata.csv.zip)
 2. Extract the CSV files and place in the Resources folder.
-3. Run Clean March Data.ipynb with Jupyter Lab/Notebook.
+3. Run [Clean March Data.ipynb](Clean March Data.ipynb) with Jupyter Lab/Notebook.
