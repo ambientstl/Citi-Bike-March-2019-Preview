@@ -22,4 +22,4 @@ To recreate the CSV of March data from 2016-2018:
 * [201703-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201703-citibike-tripdata.csv.zip)
 * [201803-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201803-citibike-tripdata.csv.zip)
 2. Extract the CSV files and place in the Resources folder.
-3. Run [Clean March Data.ipynb](Clean March Data.ipynb) with Jupyter Lab/Notebook.
+3. Run [Clean March Data.ipynb](https://github.com/ambientstl/Citi-Bike-March-2019-Preview/blob/master/Clean%20March%20Data.ipynb) with Jupyter Lab/Notebook.
